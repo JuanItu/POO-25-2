@@ -1,17 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package blocodelembretes;
-
 import java.util.Scanner;
 
-/**
- * Classe principal do projeto e deve prover métodos para entrada e saída de
- * dados relativos a um bloco de lembretes.
- * @author Felipe Marques
- */
 public class LembretesApp {
     private BlocoDeLembretes bloco;
     

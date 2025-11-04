@@ -1,14 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package blocodelembretes;
-
-/**
- *
- * @author Felipe Marques
- */
 public class BlocoDeLembretes {
     private Lembrete[] lista;
     private int numeroDeLembretes;
@@ -70,5 +60,4 @@ public class BlocoDeLembretes {
                 lista[i].imprimir();
         }
     }
-       
 }

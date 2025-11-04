@@ -1,15 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package blocodelembretes;
 
-/**
- *
- * @author Felipe Marques
- */
-class Data {
+public class Data {
     private byte dia;
     private byte mes;
     private short ano;
