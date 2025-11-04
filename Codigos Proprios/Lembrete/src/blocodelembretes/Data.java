@@ -5,6 +5,9 @@ public class Data {
     private byte mes;
     private short ano;
     
+    public Data(){
+        this((byte) 1,(byte) 1, (short) 2000 );
+    }
     public Data(byte d, byte m, short a) {
         dia = d;
         mes = m;

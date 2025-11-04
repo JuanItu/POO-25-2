@@ -12,7 +12,7 @@ public class LembretesApp {
     }
   
     /**
-     * Exercício 10 - Menu principal da aplicação, dando ao usuário a chance de
+     * Exercício 11 - Menu principal da aplicação, dando ao usuário a chance de
      * escolher uma das opções.
      * @return Retorna um inteiro com a opção escolhida pelo usuário.
      */
